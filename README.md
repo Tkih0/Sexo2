@@ -1,2 +1,1 @@
-# Sexo2
-Programa de alumnos para mejorar el mundo
+En esta actualizacion los transtornos estan cubiertos por lo que solo hace falta agregar la pagina del lobby para conectarlos todos
