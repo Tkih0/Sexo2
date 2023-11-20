@@ -1,0 +1,2 @@
+Tambien falta cambiar la base de datos y agregar el correo al alumno y cambiar Inicio de sesion , registro (Comandos y paginas)
+tambien hace falta cambiar algunas estructuras en la base de datos y ver si israel ya tiene el cartel con la presentacion.
