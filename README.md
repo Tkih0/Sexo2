@@ -1,1 +1,1 @@
-En esta actualizacion los transtornos estan cubiertos por lo que solo hace falta agregar la pagina del lobby para conectarlos todos
+Esta version tiene arreglados algunos bugs y añade el boton de panico y todos los transtornos psicologicos hasta el momento (21)
